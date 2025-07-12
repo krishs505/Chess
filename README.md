@@ -14,6 +14,8 @@ This is a simple, graphical chess game implemented in Java. It allows two player
 - **Checkmate & Stalemate Detection**: Determines the end of the game due to checkmate (one player wins) or stalemate (draw).
 - **Turn Management**: Clearly indicates whose turn it is.
 
+<img width="1143" height="884" alt="Screenshot 2025-07-11 202741" src="https://github.com/user-attachments/assets/d1a6142a-dc3e-4bb1-b9d1-b15174f4931b" />
+
 ---
 
 ## Project Structure
